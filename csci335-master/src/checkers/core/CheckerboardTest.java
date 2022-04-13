@@ -3,6 +3,7 @@ package checkers.core;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.testng.AssertJUnit.assertEquals;
 
 public class CheckerboardTest {
     public static Checkerboard fromMoves(String moves) {
